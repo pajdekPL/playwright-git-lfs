@@ -1,0 +1,16 @@
+{
+  "name": "playwright-git-lfs",
+  "version": "1.0.0",
+  "description": "This guide explains how to set up and use Git Large File Storage (LFS) to efficiently manage golden/baseline screenshots in your Playwright visual testing workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
